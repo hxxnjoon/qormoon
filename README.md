@@ -18,7 +18,7 @@
 ## Tools 🛠
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,github,githubactions,docker,discord,notion&theme=light" />
 </a><br/>
 
 <!--
